@@ -1,0 +1,35 @@
+.pc-home{
+    display: flex;
+    justify-content: center;
+}
+
+.pc-products{
+    display: flex;
+    justify-content: center;
+}
+
+.pc-fontSize{
+    font-family:MicrosoftYaHei;
+}
+
+.title-fontSize{
+    font-family:MicrosoftYaHei-Bold,MicrosoftYaHei;
+    font-weight:bold;
+    font-size:58px;
+    color:rgba(255,255,255,1);
+    line-height:79px;
+}
+
+.title2-fontSize{
+    font-size:36px;
+    font-family:MicrosoftYaHei;
+    color:rgba(255,255,255,1);
+    line-height:47px;
+}
+
+.title3-fontSize{
+    font-size:21px;
+    font-family:MicrosoftYaHei;
+    color:rgba(255,255,255,1);
+    line-height:27px;
+}
